@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to this page.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot is an open source framework that allows you to create GitHub apps to automate your GitHub workflow. 
 
 ## Getting started
 
